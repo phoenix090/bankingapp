@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">banking app</string>
+    <string-array name="friends">
+        <item>Abdifatah</item>
+        <item>Morten</item>
+        <item>Jostein</item>
+        <item>Stian</item>
+        <item>Elvis</item>
+        <item>Frode</item>
+    </string-array>
+</resources>
